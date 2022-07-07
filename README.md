@@ -4,7 +4,9 @@
 <br>안녕하세요!<br>
 제 프로그래밍 아카이브에 오신걸 환영합니다.<br>
 꾸준히 성장하려 노력하고 있어요! <br>
-😋 ENJOY 😋
+😋 ENJOY 😋<br><br>
+<img width="50%" src="https://user-images.githubusercontent.com/103197599/177783134-86050648-2839-43b0-a9ad-3ca38433ba80.jpg"/>
+
 </div>
 <br>
 <div align="center">
